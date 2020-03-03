@@ -1,0 +1,31 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  color: orange;
+  text-align: center;
+}
+
+p {
+  color: orange;
+  font-family: verdana;
+  font-size: 18px;
+}
+
+p1 {
+  color: orange;
+  font-family: verdana;
+  font-size: 15px;
+}
+
+p2 {
+  color: orange;
+  font-family: verdana;
+  font-size: 15px;
+}
+
+h2 {
+  color: orange;
+  text-align: center;
+}
